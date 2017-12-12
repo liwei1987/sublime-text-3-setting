@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Colorsublime",
+		"FileDiffs",
+		"GitGutter",
+		"Material Theme",
+		"Monokai Extended",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Terminal",
+		"Theme - Soda"
+	]
+}

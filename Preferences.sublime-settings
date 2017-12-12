@@ -1,0 +1,21 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Dark-Dracula (SL).tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "Source Code Pro",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": false,
+	"theme": "Soda Dark 3.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": "true"
+}
